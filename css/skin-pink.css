@@ -1,0 +1,179 @@
+/*
+* Author: A WP Life
+* Name: skin-default.css
+*/
+
+
+/*--------------------------------------------------------------*/
+/*	Genral
+/*--------------------------------------------------------------*/
+a:hover, a:focus, a:active { color: #FC2777; }
+.btn-skin { background-color: #FC2777; }
+.divider-main::before { background: #FC2777; }
+.btn {
+	background-color: #FC2777;
+}
+.btn:hover {
+	background:#FC2777;
+}
+.next.page-numbers {
+	background-color: #FC2777;
+}
+.prev.page-numbers {
+	background-color: #FC2777;
+}
+.feature:nth-child(2) {
+    background: #FC2777;
+}
+.notfound .notfound-404 span {
+  color:#FC2777;
+}
+.page-scroll-up {
+    background-color: #FC2777;
+}
+
+/*--------------------------------------------------------------*/
+/*	Owl
+/*--------------------------------------------------------------*/
+.owl-theme .owl-nav button:hover {
+	background: #FC2777 !important;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+	background-color: #FC2777 !important;
+}
+.slider-caption .subtitle { 
+	color: #FC2777; 
+} 
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    box-shadow: 0 0 0 5px hsl(337 97% 57% / .3)
+}
+
+/*--------------------------------------------------------------*/
+/*	Nav
+/*--------------------------------------------------------------*/
+.nav-item:hover .nav-link {
+	color: #FC2777 !important;
+}
+.nav-item.active .nav-link {
+	color: #FC2777 !important;
+}
+.nav-item .dropdown-item.active, .nav-item .dropdown-item:active {
+	background-color: #FC2777;
+}
+.nav-item .dropdown-menu { border-top-color:#FC2777; } 
+.dropdown-item:hover, 
+.dropdown-item:focus {
+	background-color: #FC2777;
+}
+/*--------------------------------------------------------------*/
+/*	Section Header
+/*--------------------------------------------------------------*/
+
+.inner-header .inner-title > a:hover, 
+.inner-header .inner-title > a:focus, 
+.inner-header .inner-title > a:active { color: #FC2777; }
+
+.cart > a .cart-total {
+    background: #FC2777;
+}
+.header-contact-info i {
+	color:#FC2777
+}
+.header-buy-button {
+	border-color: #FC2777;
+    background: #FC2777;
+}
+/*--------------------------------------------------------------*/
+/*	Section Services
+/*--------------------------------------------------------------*/
+
+.icon-bg {
+    color: #FC2777 !important
+}
+.icon-bg::after {
+    background: #FC2777 !important
+}
+.single-service ul li::before {
+  color: #FC2777;
+}
+.single-service ul.list li a:hover {
+	 color: #FC2777;
+}
+/*--------------------------------------------------------------*/
+/*	 about page
+/*--------------------------------------------------------------*/
+
+.about-img-holder:before {
+    border-color: #FC2777;
+}
+
+/*--------------------------------------------------------------*/
+/*	Section Portfolio
+/*--------------------------------------------------------------*/
+/*.portfolio-thumbnail figcaption {
+background: #FC2777
+}*/
+.portfolio-thumbnail i {
+background: #FC2777
+}
+.portfolio .post .inner-title a:hover {
+	color:#FC2777;
+}
+/*--------------------------------------------------------------*/
+/*	Blog 
+/*--------------------------------------------------------------*/
+
+.blog .entry-meta .entry-date a { color: #FC2777; }
+.post .post-meta span:first-child { color: #FC2777; }
+.post .post-widget li:after {
+    color: #FC2777;
+}
+.post-navigation i {
+	  color: #FC2777;
+}
+.more-link {
+	color: #FC2777;
+}
+/*--------------------------------------------------------------*/
+/*	Sidebars & Widgets Section
+/*--------------------------------------------------------------*/
+	
+
+.widget a:hover, .widget a:focus { color: #FC2777 !important; }
+.widget i.icon { color: #FC2777; }
+.widget .post .entry-meta .entry-date a { color: #FC2777; }
+.widget .tagcloud a:hover { background-color: #FC2777 !important; border: 1px solid #FC2777 !important;}
+.widget #wp-calendar caption { background-color: #FC2777; }
+.widget .twitter-feed-widget a {
+	color: #FC2777;
+}
+
+/*--------------------------------------------------------------*/
+/*	Shop
+/*--------------------------------------------------------------*/
+	
+.shop .product-sale { color: #FC2777; }
+
+/*--------------------------------------------------------------*/
+/*	Shop
+/*--------------------------------------------------------------*/
+	
+.funfact .funfact-icon { color: #FC2777; }
+
+/*--------------------------------------------------------------*/
+/*	Footer
+/*--------------------------------------------------------------*/
+	
+.social-btns .btn i {color: #FC2777 }
+.scroll-down:hover {
+	background: #FC2777;
+}
+.footer { 
+	border-top-color: 2px solid #FC2777;
+}
+.border-box:after {
+    background: #FC2777;
+}
+.border-box:before {
+    background: #FC2777;
+}
